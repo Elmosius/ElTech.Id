@@ -1,6 +1,7 @@
 # 🌟 ElTech.Id
 **Aplikasi Website Rekomendasi Setup**  
-Submission: *Belajar Dasar Pemrograman Web - Dicoding*
+[Submission: *Belajar Dasar Pemrograman Web - Dicoding*](https://www.dicoding.com/academies/123-belajar-dasar-pemrograman-web)
+
 
 ## 🖥️ Deskripsi  
 **ElTech.Id** adalah aplikasi website sederhana yang memberikan rekomendasi setup teknologi—seperti perangkat, tools, dan software—untuk berbagai kebutuhan, mulai dari produktivitas, gaming, hingga programming. Website ini dibuat sebagai bagian dari submission kelas **Belajar Dasar Pemrograman Web** dari Dicoding.
