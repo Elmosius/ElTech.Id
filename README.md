@@ -1,4 +1,4 @@
-# 🌟 [ElTech.Id ](https://eltechid.netlify.app/) 
+# 🌟 ElTech.Id
 **Aplikasi Website Rekomendasi Setup**  
 Submission: *Belajar Dasar Pemrograman Web - Dicoding*
 
@@ -12,15 +12,10 @@ Proyek ini bertujuan untuk **menerapkan materi yang telah dipelajari** selama me
 - Styling menggunakan **CSS eksternal** (modul *Pengenalan ke Styling*)
 - **Layout responsif** menggunakan Flexbox (modul *Layout Responsif dengan Flexbox*)
 
-## 🔧 Fitur Utama
-- Tampilan yang modern dan responsif.
-- Navigasi antarbagi yang mudah digunakan.
-- Konten rekomendasi ditampilkan dengan layout menarik.
-- Struktur HTML yang rapi dan semantik.
-- Styling dengan CSS eksternal.
-- Interaktivitas dasar dengan JavaScript.
-
 ## 🚀 Teknologi yang Digunakan
 - HTML5
 - CSS3
 - JavaScript (Dasar)
+
+## 🔗 Link Demo
+- 🌐 [[Demo ElTech.Id]](https://eltechid.netlify.app/)
