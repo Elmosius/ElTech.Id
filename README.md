@@ -19,4 +19,4 @@ Proyek ini bertujuan untuk **menerapkan materi yang telah dipelajari** selama me
 - JavaScript (Dasar)
 
 ## 🔗 Link Demo
-- 🌐 [[Demo ElTech.Id]](https://eltechid.netlify.app/)
+- 🌐 [Demo ElTech.Id](https://eltechid.netlify.app/)
